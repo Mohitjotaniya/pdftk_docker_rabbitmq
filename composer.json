@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mikehaertl/php-pdftk": "^0.13.1",
+        "php-amqplib/php-amqplib": "^3.2"
+    }
+}

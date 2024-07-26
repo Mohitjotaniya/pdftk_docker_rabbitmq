@@ -1,0 +1,648 @@
+---
+FieldType: Text
+FieldName: Issuer Name
+FieldNameAlt: Issuer Name:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Clinical Reason for Urgency
+FieldNameAlt: Clinical Reason for Urgency:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Subscriber Name if different
+FieldNameAlt: Subscriber Name (if different):
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Primary Care Provider Name see instructions
+FieldNameAlt: Primary Care Provider Name (see instructions):
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Inpatient
+FieldNameAlt: Check if inpatient service is requested
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Outpatient
+FieldNameAlt: Check if outpatient service is requested
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Provider Office
+FieldNameAlt: Check if provider office service is requested
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Observation
+FieldNameAlt: Check if observation is requested
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Occupational Therapy
+FieldNameAlt: Check box if occupational therapy is requested
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Speech Therapy
+FieldNameAlt: Check box if speech therapy is requested
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Cardiac Rehab
+FieldNameAlt: Check box if cardiac rehab is requested
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Text
+FieldName: SECTION VI  CLINICAL DOCUMENTATION SEE INSTRUCTIONS PAGE SECTION VI
+FieldNameAlt: SECTION VI &#8212; CLINICAL DOCUMENTATION (SEE INSTRUCTIONS PAGE, SECTION VI
+FieldFlags: 4096
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Issuer Phone Number
+FieldNameAlt: Issuer Phone Number
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Issuer Fax Number
+FieldNameAlt: Issuer Fax Number
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Submission Date
+FieldNameAlt: Submission Date
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Previous Authorization Number
+FieldNameAlt: Previous Authorization Number
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Patient Name
+FieldNameAlt: Patient Name
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Patient Phone Number
+FieldNameAlt: Patient Phone Number
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Patient Date of Birth
+FieldNameAlt: Patient Date of Birth
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Member or Medicaid ID Number
+FieldNameAlt: Member or Medicaid ID Number
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Group Number
+FieldNameAlt: Group Number:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Requesting Provider or Facility Name
+FieldNameAlt: Requesting Provider or Facility Name
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Requesting Provider or Facility NPI Number
+FieldNameAlt: Requesting Provider or Facility NPI Number
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Requesting Provider or Facility Specialty
+FieldNameAlt: Requesting Provider or Facility Specialty:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Requesting Provider or Facility Phone Number
+FieldNameAlt: Requesting Provider or Facility Phone Number
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Requesting Provider or Facility Fax Number
+FieldNameAlt: Requesting Provider or Facility Fax Number
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Requesting Provider or Facility Contact Name
+FieldNameAlt: Requesting Provider or Facility Contact Name:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Requesting Provider or Facility Contact Phone Number
+FieldNameAlt: Requesting Provider or Facility Contact Phone Number
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Service Provider or Facility Name
+FieldNameAlt: Service Provider or Facility Name
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Service Provider or Facility NPI Number
+FieldNameAlt: Service Provider or Facility NPI Number
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Service Provider or Facility Specialty
+FieldNameAlt: Service Provider or Facility Specialty
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Service Provider or Facility Phone Number
+FieldNameAlt: Service Provider or Facility Phone Number
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Service Provider or Facility Fax Number
+FieldNameAlt: Service Provider or Facility Fax Number
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Primary Care Provider Phone Number
+FieldNameAlt: Primary Care Provider Phone Number
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Primary Care Provider Fax Number
+FieldNameAlt: Primary Care Provider Fax Number
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Number of Home Health Visits
+FieldNameAlt: Number of Home Health Visits
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Duration of Home Health Visits
+FieldNameAlt: Duration of Home Health Visits
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Frequency of Home Health Visits
+FieldNameAlt: Frequency of Home Health Visits
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Other Home Health Visit Information
+FieldNameAlt: Other Home Health Visit Information
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Durable Medical Equipment or Supplies Requested, include any HCPCS Codes
+FieldNameAlt: Durable Medical Equipment or Supplies Requested, include any HCPCS Codes
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Duration of Durable Medical Equipment Use
+FieldNameAlt: Duration of Durable Medical Equipment Use
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Mental Health or Substance Abuse
+FieldNameAlt: Check box if mental health or substance abuse therapy is requested
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Text
+FieldName: Number of Therapy Sessions
+FieldNameAlt: Number of Therapy Sessions
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Duration of Therapy Sessions
+FieldNameAlt: Duration of Therapy Sessions
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Frequency of Therapy Sessions
+FieldNameAlt: Frequency of Therapy Sessions
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Other Service Defined
+FieldNameAlt: If other service is checked, define other service requested
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Other Service Requested
+FieldNameAlt: Check if other service is requested
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Text
+FieldName: Requesting Provider Direct Phone Number
+FieldNameAlt: Requesting Provider Direct Phone Number
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Diagnosis Description ICD Version Number
+FieldNameAlt: Diagnosis Description ICD Version Number
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Physical Therapy
+FieldNameAlt: Check box if physical therapy is requested
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Home Health Visits Requested Checkbox
+FieldNameAlt: Check box if home health visits are requested
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Durable Medical Equipment Requested Checkbox
+FieldNameAlt: Check box if durable medical equipment is requested
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Text
+FieldName: Requesting Provider&apos;s Signature and Date if required
+FieldNameAlt: Requesting Provider&#8217;s Signature and Date (if required):
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Planned Service or Procedure Row 1
+FieldNameAlt: Planned Service or Procedure Row 1
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Planned Service or Procedure Code Row 1
+FieldNameAlt: Planned Service or Procedure Code Row 1
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Planned Service or Procedure Start Date Row 1
+FieldNameAlt: Planned Service or Procedure Start Date Row 1
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Planned Service or Procedure End Date Row 1
+FieldNameAlt: Planned Service or Procedure End Date Row 1
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Planned Service or Procedure Diagnosis Description Row 1
+FieldNameAlt: Planned Service or Procedure Diagnosis Description Row 1
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Planned Service or Procedure Diagnosis Code Row 1
+FieldNameAlt: Planned Service or Procedure Diagnosis Code Row 1
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Planned Service or Procedure Row 2
+FieldNameAlt: Planned Service or Procedure Row 2
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Planned Service or Procedure Row 3
+FieldNameAlt: Planned Service or Procedure Row 3
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Planned Service or Procedure Row 4
+FieldNameAlt: Planned Service or Procedure Row 4
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Planned Service or Procedure Code Row 2
+FieldNameAlt: Planned Service or Procedure Code Row 2
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Planned Service or Procedure Code Row 3
+FieldNameAlt: Planned Service or Procedure Code Row 3
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Planned Service or Procedure Code Row 4
+FieldNameAlt: Planned Service or Procedure Code Row 4
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Planned Service or Procedure Start Date Row 2
+FieldNameAlt: Planned Service or Procedure Start Date Row 2
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Planned Service or Procedure Start Date Row 3
+FieldNameAlt: Start Date_Row_3
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Planned Service or Procedure Start Date Row 4
+FieldNameAlt: Planned Service or Procedure Start Date Row 4
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Planned Service or Procedure End Date Row 2
+FieldNameAlt: Planned Service or Procedure End Date Row 2
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Planned Service or Procedure End Date Row 3
+FieldNameAlt: Planned Service or Procedure End Date Row 3
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Planned Service or Procedure End Date Row 4
+FieldNameAlt: Planned Service or Procedure End Date Row 4
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Planned Service or Procedure Diagnosis Description Row 2
+FieldNameAlt: Planned Service or Procedure Diagnosis Description Row 2
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Planned Service or Procedure Diagnosis Description Row 3
+FieldNameAlt: Planned Service or Procedure Diagnosis Description Row 3
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Planned Service or Procedure Diagnosis Description Row 4
+FieldNameAlt: Planned Service or Procedure Diagnosis Description Row 4
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Planned Service or Procedure Diagnosis Code Row 2
+FieldNameAlt: Planned Service or Procedure Diagnosis Code Row 2
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Planned Service or Procedure Diagnosis Code Row 3
+FieldNameAlt: Planned Service or Procedure Diagnosis Code Row 3
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Planned Service or Procedure Diagnosis Code Row 4
+FieldNameAlt: Planned Service or Procedure Diagnosis Code Row 4
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Button
+FieldName: Home
+FieldNameAlt: Yes, a signed doctor&apos;s order for home health visits is attached
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Day Surgery
+FieldNameAlt: Check if day surgery is requested
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: MD Signed Order for Home Health Visits Attached
+FieldNameAlt: Check box if a signed doctor&apos;s order for home health visits is attached
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: MD Signed Order for Home Health Visits Not Attached
+FieldNameAlt: Check box if a signed doctor&apos;s order for home health visits is not attached
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: MD Signed Order for Durable Medical Equipment Attached
+FieldNameAlt: Check box if a signed doctor&apos;s order for durable medical equipment is attached
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: MD Signed Order for Durable Medical Equipment Not Attached
+FieldNameAlt: Check box if a signed doctor&apos;s order for durable medical equipment is not attached
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Medicaid Only: Title 19 Certification Attached
+FieldNameAlt: Medicaid only: check box if a Title 19 Certification for durable medical equipment is attached
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Medicaid Only: Title 19 Certification Not Attached
+FieldNameAlt: Medicaid only: check box if a Title 19 Certification for durable medical equipment is not attached
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Nursing Assessment for Home Health Visits Not Attached
+FieldNameAlt: Check box if a nursing assessment for home health visits is not attached
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Nursing Assessment for Home Health Visits Attached
+FieldNameAlt: Check box if a nursing assessment for home health visits is attached
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Paitent Gender - Female
+FieldNameAlt: Check box if patient&apos;s gender is female
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Paitent Gender - Male
+FieldNameAlt: Check box if patient&apos;s gender is male
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Paitent Gender - Other
+FieldNameAlt: Check box if patient&apos;s gender is other
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Paitent Gender - Unkown
+FieldNameAlt: Check box if patient&apos;s gender is unknown
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Review Type - Non-Urgent
+FieldNameAlt: Check box if review is non-urgent
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Review Type - Urgent
+FieldNameAlt: Check box if review is urgent
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Request Type - Initial
+FieldNameAlt: Check box if this is an initial request
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Request Type - Extension/Renewal/Amendment
+FieldNameAlt: Check box if this is an extension, renewal or amended request
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Text
+FieldName: Other Therapy Session Information
+FieldNameAlt: Other Therapy Session Information
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Print
+FieldNameAlt: For a blank form, print prior filling out
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Clear Form
+FieldNameAlt: Clear Form
+FieldFlags: 65536
+FieldJustification: Left
